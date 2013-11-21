@@ -7,6 +7,9 @@
 //  CONEBOY_K ADD blurry
 //
 
+//  Please ADD  Accelerate.framework
+
+
 #define KEY_WINDOW  [[UIApplication sharedApplication]keyWindow]
 
 #import "MLNavigationController.h"
