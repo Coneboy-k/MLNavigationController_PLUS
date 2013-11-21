@@ -1,6 +1,7 @@
 MLNavigationController_PLUS
 ===========================
 1.基于MLNavigationController对右滑返回进行视觉优化，效果如下图
+![演示图片](https://raw.github.com/Coneboy-k/MLNavigationController_PLUS/master/18.gif)
 
 
 
